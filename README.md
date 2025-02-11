@@ -64,11 +64,9 @@ VinylStore("606 Records", "1808 S Allport St, Chicago, IL 60608", "https://www.6
 
 ## Future Improvements
 - Expand the list of stores.
+- Auto Detection for stores.
 - Implement caching for faster results.
 - Add support for headless browsing to reduce resource usage.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contributors
 - **James Li** (Original Developer)
